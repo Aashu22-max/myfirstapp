@@ -1,0 +1,22 @@
+{
+  "name": "myfirstapp",
+  "version": "1.0.0",
+  "description": "My First App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aashu22-max/myfirstapp.git"
+  },
+  "keywords": [
+    "myfirstapp"
+  ],
+  "author": "aashu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aashu22-max/myfirstapp/issues"
+  },
+  "homepage": "https://github.com/Aashu22-max/myfirstapp#readme"
+}
